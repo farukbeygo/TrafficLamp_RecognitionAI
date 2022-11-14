@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 13 18:16:19 2022
-
-@author: pc
-"""
 import numpy as np
 # function that create zero matrices
 
