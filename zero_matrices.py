@@ -1,6 +1,6 @@
 import numpy as np
-# function that create zero matrices
 
+# function that create zero matrices
 def zeros(dim):
     # Weight matrix
     w = np.zeros((dim, 1))
