@@ -1,4 +1,4 @@
-# TrafficLamp_RecognitionAI
+# artificial_intelligence_trafficlamb
 
   Hello, we are developing our traffic lamb recognition algorithm to pass classic google captcha, and also, we will not use a complex AI system. Also put it in this repository that data we have used.
   
