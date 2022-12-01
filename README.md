@@ -1,8 +1,3 @@
 # artificial_intelligence_trafficlamb
 
-  Hello, we are developing our traffic lamb recognition algorithm to pass classic google captcha, and also, we will not use a complex AI system. Also put it in this repository that data we have used.
-  
-  Faruk Beygo
-  
-  ------------------
-    We must find a dataset contains picture (approximetely 100 picture will be enough) and reduce it 64x64 pixel to work basic
+Hello, we are developing our traffic lamb recognition algorithm to pass classic google captcha with my dear friend Ibrahim. It is our group project. You can follow us on LinkedIn https://www.linkedin.com/in/%C3%B6mer-faruk-beygo-467a251b0/, https://www.linkedin.com/in/ibrahimbagriyanik/
