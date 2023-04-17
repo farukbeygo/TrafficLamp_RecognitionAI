@@ -25,7 +25,7 @@ Contributions to this project are welcome! To contribute, simply [https://github
 
 ## License
 
-This project is licensed under the [insert license type, such as MIT License].
+This project is licensed under the MIT License.
 
 ## Contact
 
